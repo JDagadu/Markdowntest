@@ -11,7 +11,7 @@
 _This text_ is italic
 
 <!--Strong  -->
-*\*This text\** is Bold or strong
+**\*This text\*** is Bold or strong
 <!-- OR -->
 __This text__ is Bold or strong
 
@@ -23,10 +23,10 @@ ___
 
 <!-- Blockquote -->
 
-> This is a blockquote
+>This is a blockquote
 
 <!-- Links -->
-[This is the link ](http://www.youtube.com "YouTube")
+[This](http://www.youtube.com "YouTube") is the link 
 
 <!-- Unordered List -->
 * Item 1
@@ -42,7 +42,7 @@ ___
 1. Item 3
 
 <!-- Inline Code Block -->
-`<p>This is a Paragraph</p>`
+`<p>This is a Paragraph</p>` 
 
 <!-- Images -->
 ![Image](https://markdown-here.com/img/icon256.png "Markdown icon")
@@ -50,8 +50,8 @@ ___
 <!-- Github Markdown -->
 
 <!-- Codeblocks -->
-```
-implementation com.example.jeffdagadu
+```java
+Hello  name = new Hello();
 ```
 
 ```javascript
